@@ -1,9 +1,9 @@
 import React from "react";
-import Container from "./components/container";
-import Col from "./components/col";
-import InputFilter from "./components/input";
-import EmployeeCard from "./components/card";
-import API from "./utils/API";
+import Container from "./Components/container";
+import Col from "./Components/col";
+import InputFilter from "./Components/input";
+import EmployeeCard from "./Components/card";
+import API from "./Utils/API";
 import "./App.css";
 
 class App extends React.Component {
